@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance Dashboard UI
 
 This project is a React-based finance dashboard interface built to evaluate frontend development skills. It features a clean, responsive, and interactive design for tracking financial activity.
@@ -41,3 +42,7 @@ Make sure you have Node.js and npm installed.
 1. **Glassmorphism Theme**: Adds a modern touch to the interface that feels high-quality and premium.
 2. **Dynamic Theming**: Both Light and Dark modes are supported purely via CSS variables (`[data-theme='light']`) minimizing JS overhead and preventing theme flashing.
 3. **Optimized Calculations**: Use of `useMemo` extensively ensures that chart formats, filtering, and total reductions only recalculate when transaction data specifically mutates, optimizing the react render cycle.
+=======
+# financial_dashboard_UI
+A modern and responsive finance dashboard UI that visualizes income, expenses, savings, and transaction analytics through interactive cards, charts, and tables. Designed with intuitive navigation, dark mode support, and mobile-friendly layouts for seamless financial tracking.
+>>>>>>> 9ccb2d7153ba703fefe1528653c18d0b92831d48
